@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1602251268 source:c:\users\nico_\desktop\ejemplotdamatriz\ejemplo.c
+	<stdio.h>
+	<stdlib.h>
+	"ejemplo.h"
+
+1602251268 c:\users\nico_\desktop\ejemplotdamatriz\ejemplo.h
+
+1602251209 source:c:\users\nico_\desktop\ejemplotdamatriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ejemplo.h"
+
+1740081756 source:b:\unla\1er año\(8600) programación de computadoras\2do cuatrimestre\codigos de las clases\ejemplotdamatriz\ejemplo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ejemplo.h"
+
+1602251268 b:\unla\1er año\(8600) programación de computadoras\2do cuatrimestre\codigos de las clases\ejemplotdamatriz\ejemplo.h
+
+1740081638 source:b:\unla\1er año\(8600) programación de computadoras\2do cuatrimestre\codigos de las clases\ejemplotdamatriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ejemplo.h"
+
