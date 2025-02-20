@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1740076493 source:b:\unla\1er año\(8600) programación de computadoras\2do cuatrimestre\parciales resueltos\sistema_de_teatros\sistema_teatros\main.c
+	<stdlib.h>
+	<string.h>
+	"teatros.h"
+
+1740077005 b:\unla\1er año\(8600) programación de computadoras\2do cuatrimestre\parciales resueltos\sistema_de_teatros\sistema_teatros\teatros.h
+
