@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1740083441 source:b:\unla\1er año\(8600) programación de computadoras\2do cuatrimestre\parciales resueltos\sistema_de_teatros\sistema_teatros_sintda\sistema_arboles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
