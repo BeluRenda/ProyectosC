@@ -1,0 +1,4 @@
+1111;Colon;Tucuman 1171;9500
+3333;Luna Park;Av. Madero 420;7000
+4444;Astros;Av. Corrientes 750;3000
+5555;Espacio Abierto;Carabelas 255;13000
